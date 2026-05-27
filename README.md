@@ -1,3 +1,5 @@
+Master Thesis
+==========================================================================================================
 State-Space Models (SSMs) have recently shown promising results in time-series modeling, which
 often requires complex dependencies over long sequences. SSMs offer an alternative to sequence
 models such as RNNs, CNNs, or Transformers. Prior work has investigated SSMs as part of deep
